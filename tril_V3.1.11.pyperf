@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>860a891f-27f6-4d3f-a2de-93c76fe05d7b</TargetProject>
+    <FriendlyName>tril_V3.1.11</FriendlyName>
+  </ProjectTarget>
+</ProfilingTarget>

@@ -1,0 +1,10 @@
+Oude software:
+Sensitivity analyzer wordt als volgt bepaald:
+    - Voltage: cond. amp. op 100mV, sens knob op ref1 sens. Sensitivity analyzer is 100mV/unit waarde * g * 10^k/20 (k < 0)
+    - Charge: cond. amp. op 10mV (k > 0) of 100mV (k < 0), sens knob op 1.00. Sensitivity analyzer is 0.01 * ref sens * g (k > 0) of
+    100mV/unit waarde * g * 10^k/20 (k < 0)
+    - Velocity: cond. amp. op 10mV, sens knob op ref1 sens. Sensitivity analyzer ? (wschlk 10mV/unit waarde * g * 10^k/20)
+
+Nieuwe software:
+Cond. amp altijd op 10mV/Unit, sens knob op 1.00. Gevolg: Formule voor k-values aanpassen bij Voltage (-20 ipv -40) en sensitivity berekeningen
+aanpassen.
