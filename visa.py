@@ -472,3 +472,6 @@ messages = {
                            "sufficient privileges for the current "
                            "user or machine")
 }
+
+if __name__ == "__main__":
+    instr = Visa

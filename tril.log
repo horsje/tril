@@ -1,2 +1,8 @@
-INFO: 08-09-2016 15:01:08 Programma gestart
-INFO: 08-09-2016 15:01:24 Programma afgesloten
+INFO: 19-11-2016 14:45:09 Programma gestart
+INFO: 19-11-2016 14:45:20 DUT 225 geselecteerd.
+INFO: 19-11-2016 14:45:53 exc_level: 42.461394
+CRITICAL: 19-11-2016 14:45:53 Fout tijdens instellen Excitation Level! Controleer de meetopstelling.
+INFO: 19-11-2016 14:46:07 DUT 225 geselecteerd.
+INFO: 19-11-2016 14:46:42 exc_level: 42.440832
+CRITICAL: 19-11-2016 14:46:42 Fout tijdens instellen Excitation Level! Controleer de meetopstelling.
+INFO: 19-11-2016 14:47:03 Programma afgesloten
